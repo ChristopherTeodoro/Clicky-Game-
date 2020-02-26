@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7BClickster%7D/static/css/main.7eedff02.chunk.css",
+    "main.js": "/%7BClickster%7D/static/js/main.1c25693c.chunk.js",
+    "main.js.map": "/%7BClickster%7D/static/js/main.1c25693c.chunk.js.map",
+    "runtime-main.js": "/%7BClickster%7D/static/js/runtime-main.45ee633a.js",
+    "runtime-main.js.map": "/%7BClickster%7D/static/js/runtime-main.45ee633a.js.map",
+    "static/js/2.f0a6a870.chunk.js": "/%7BClickster%7D/static/js/2.f0a6a870.chunk.js",
+    "static/js/2.f0a6a870.chunk.js.map": "/%7BClickster%7D/static/js/2.f0a6a870.chunk.js.map",
+    "index.html": "/%7BClickster%7D/index.html",
+    "precache-manifest.9aef2de89e5cfac69358b2f126a52326.js": "/%7BClickster%7D/precache-manifest.9aef2de89e5cfac69358b2f126a52326.js",
+    "service-worker.js": "/%7BClickster%7D/service-worker.js",
+    "static/css/main.7eedff02.chunk.css.map": "/%7BClickster%7D/static/css/main.7eedff02.chunk.css.map",
+    "static/js/2.f0a6a870.chunk.js.LICENSE.txt": "/%7BClickster%7D/static/js/2.f0a6a870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ee633a.js",
+    "static/js/2.f0a6a870.chunk.js",
+    "static/css/main.7eedff02.chunk.css",
+    "static/js/main.1c25693c.chunk.js"
+  ]
+}
