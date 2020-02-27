@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Clickster/static/css/main.7eedff02.chunk.css",
-    "main.js": "/Clickster/static/js/main.1c25693c.chunk.js",
-    "main.js.map": "/Clickster/static/js/main.1c25693c.chunk.js.map",
+    "main.css": "/Clickster/static/css/main.7cd1adda.chunk.css",
+    "main.js": "/Clickster/static/js/main.ec1c9f68.chunk.js",
+    "main.js.map": "/Clickster/static/js/main.ec1c9f68.chunk.js.map",
     "runtime-main.js": "/Clickster/static/js/runtime-main.4ac66f5e.js",
     "runtime-main.js.map": "/Clickster/static/js/runtime-main.4ac66f5e.js.map",
     "static/js/2.f0a6a870.chunk.js": "/Clickster/static/js/2.f0a6a870.chunk.js",
     "static/js/2.f0a6a870.chunk.js.map": "/Clickster/static/js/2.f0a6a870.chunk.js.map",
     "index.html": "/Clickster/index.html",
-    "precache-manifest.785bc75d0a93e59abeb5d775f3d14920.js": "/Clickster/precache-manifest.785bc75d0a93e59abeb5d775f3d14920.js",
+    "precache-manifest.fa6aea0d84fa84f23f41365632813d93.js": "/Clickster/precache-manifest.fa6aea0d84fa84f23f41365632813d93.js",
     "service-worker.js": "/Clickster/service-worker.js",
-    "static/css/main.7eedff02.chunk.css.map": "/Clickster/static/css/main.7eedff02.chunk.css.map",
+    "static/css/main.7cd1adda.chunk.css.map": "/Clickster/static/css/main.7cd1adda.chunk.css.map",
     "static/js/2.f0a6a870.chunk.js.LICENSE.txt": "/Clickster/static/js/2.f0a6a870.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ac66f5e.js",
     "static/js/2.f0a6a870.chunk.js",
-    "static/css/main.7eedff02.chunk.css",
-    "static/js/main.1c25693c.chunk.js"
+    "static/css/main.7cd1adda.chunk.css",
+    "static/js/main.ec1c9f68.chunk.js"
   ]
 }
